@@ -1,0 +1,3 @@
+.title-hover:hover h1, .title-hover svg, .title-hover:hover a{
+    color: oklch(51.1% 0.262 276.966);
+}
